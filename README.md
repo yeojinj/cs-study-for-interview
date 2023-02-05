@@ -41,6 +41,6 @@
 3. Socket 으로 웹 페이지를 크롤링하는 HTTP 클라이언트를 직접 구현하기
 4. HTTP와 HTTPS의 차이점
 5. HTTPS와 SSL Handshake
-6. HTTP 메서드와 그 역할
+6. [HTTP 메서드와 그 역할](https://djunnni.github.io/docs/network/11)
 7. [GET과 POST의 차이점](https://canary-capacity-362.notion.site/GET-POST-f2e4995001a947b69f9e8d5508baac13)
 8. [웹 브라우저 동작 과정](https://canary-capacity-362.notion.site/7c359563949b428d8cb67b8c0e976c4d)
