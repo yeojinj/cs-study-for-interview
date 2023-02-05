@@ -31,8 +31,8 @@
 
 ### 1주차
 
-1. [OSI Layer 7 또는 TCP Model](./pdfs/김명진네트워크 1주차.pdf)
-2. [TCP와 UDP의 차이점](./pdfs/김명진네트워크 1주차.pdf)
+1. [OSI Layer 7 또는 TCP Model](./pdfs/kmjNetwork1Week.pdf)
+2. [TCP와 UDP의 차이점](./pdfs/kmjNetwork1Week.pdf)
 3. [TCP 3, 4 way handshake](https://canary-capacity-362.notion.site/3-way-4-way-handshake-1a46f441650048f2866158dd7ea21d18)
 4. [유니캐스트, 멀티캐스트, 브로드캐스트, 애니캐스트](https://canary-capacity-362.notion.site/Unicast-Broadcast-Multicast-Anycast-c964a0e1b0274f6184b382a82db3c265)
 5. MAC 주소
