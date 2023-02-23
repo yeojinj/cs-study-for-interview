@@ -63,7 +63,7 @@
 4. OAuth
 5. [Session](https://canary-capacity-362.notion.site/Cookie-Session-66f7c27bc2004fd8a9910270e41f7c40)
 6. [Cookie](https://canary-capacity-362.notion.site/Cookie-Session-66f7c27bc2004fd8a9910270e41f7c40)
-7. HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식
+7. [HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식](./pdfs/HTTPS%EC%97%90%EC%84%9C_%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC_%EC%A0%84%EC%86%A1%EA%B3%BC%EC%A0%95.pdf)
 8. [HTTP는 Stateless(상태가 없는) 통신 프로토콜인데, 이로 인해 발생할 수 있는 불편함을 해소한 방법](./pdfs/%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9_%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8.pdf)
 
 ### 4주차
