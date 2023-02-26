@@ -66,6 +66,8 @@
 7. [HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식](./pdfs/HTTPS%EC%97%90%EC%84%9C_%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC_%EC%A0%84%EC%86%A1%EA%B3%BC%EC%A0%95.pdf)
 8. [HTTP는 Stateless(상태가 없는) 통신 프로토콜인데, 이로 인해 발생할 수 있는 불편함을 해소한 방법](./pdfs/%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9_%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8.pdf)
 
+피드백 - [금비](feedback/3_1.PNG) | [명진](feedback/3_2.PNG) | [여진](feedback/3_3.PNG) | [동준](feedback/3_4.PNG)
+
 ### 4주차
 
 1. [웹 서버 소프트웨어(Apache, Nginx)와 이것의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지](https://www.notion.so/4-646d9094ad0642a49feebc42db2a97cd?pvs=4)
