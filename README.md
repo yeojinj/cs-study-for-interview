@@ -59,8 +59,8 @@
 
 1. RESTful
 2. CORS
-3. JWT
-4. OAuth
+3. [JWT](https://www.notion.so/3-jwt-4e4ed02243434fa5a066c46626b3e425?pvs=4)
+4. [OAuth](https://www.notion.so/3-OAuth-a4249244a7cc4fa787523dc68cda032a?pvs=4)
 5. [Session](https://canary-capacity-362.notion.site/Cookie-Session-66f7c27bc2004fd8a9910270e41f7c40)
 6. [Cookie](https://canary-capacity-362.notion.site/Cookie-Session-66f7c27bc2004fd8a9910270e41f7c40)
 7. [HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식](./pdfs/HTTPS%EC%97%90%EC%84%9C_%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC_%EC%A0%84%EC%86%A1%EA%B3%BC%EC%A0%95.pdf)
@@ -68,10 +68,8 @@
 
 ### 4주차
 
-1. 웹 서버 소프트웨어(Apache, Nginx)와 이것의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지
+1. [웹 서버 소프트웨어(Apache, Nginx)와 이것의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지](https://www.notion.so/4-646d9094ad0642a49feebc42db2a97cd?pvs=4)
 2. XSS, CSRF
 3. 프록시 서버, 게이트 웨이
 4. DDoS
 5. 총정리
-
-
