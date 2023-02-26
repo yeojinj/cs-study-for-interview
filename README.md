@@ -71,5 +71,5 @@
 1. [웹 서버 소프트웨어(Apache, Nginx)와 이것의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지](https://www.notion.so/4-646d9094ad0642a49feebc42db2a97cd?pvs=4)
 2. XSS, CSRF
 3. 프록시 서버, 게이트 웨이
-4. DDoS
+4. [DDoS](https://canary-capacity-362.notion.site/DDoS-bdcdebd93c63438fa710d194dd18f8f3)
 5. 총정리
