@@ -49,11 +49,10 @@
 1. [Socket 으로 바로 통신하는 것 대비 HTTP 는 비효율적인데도 왜 많은 앱들은 HTTP 를 쓰는 걸까요?](https://www.notion.so/2-1-31-http-1d0b3cc10abf4e9aac8aaa8ba1272eec)
 2. [HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식]()
 3. [Socket 으로 웹 페이지를 크롤링하는 HTTP 클라이언트를 직접 구현하기](https://www.notion.so/2-1-31-http-1d0b3cc10abf4e9aac8aaa8ba1272eec)
-4. [HTTP와 HTTPS의 차이점]()
-5. [HTTPS와 SSL Handshake]()
-6. [HTTP 메서드와 그 역할](https://djunnni.github.io/docs/network/11)
-7. [GET과 POST의 차이점](https://canary-capacity-362.notion.site/GET-POST-f2e4995001a947b69f9e8d5508baac13)
-8. [웹 브라우저 동작 과정](https://canary-capacity-362.notion.site/7c359563949b428d8cb67b8c0e976c4d)
+4. [HTTP와 HTTPS의 차이점] & [HTTPS와 SSL Handshake](https://spotty-cycle-5fc.notion.site/HTTP-HTTPS-HTTPS-SSL-Handshake-41dc2cc6e8f947dfb69226bce0b8210d)
+5. [HTTP 메서드와 그 역할](https://djunnni.github.io/docs/network/11)
+6. [GET과 POST의 차이점](https://canary-capacity-362.notion.site/GET-POST-f2e4995001a947b69f9e8d5508baac13)
+7. [웹 브라우저 동작 과정](https://canary-capacity-362.notion.site/7c359563949b428d8cb67b8c0e976c4d)
 
 ### 3주차
 
