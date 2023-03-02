@@ -39,26 +39,26 @@
 2. [TCP와 UDP의 차이점](./pdfs/kmjNetwork1Week.pdf)
 3. [TCP 3, 4 way handshake](https://canary-capacity-362.notion.site/3-way-4-way-handshake-1a46f441650048f2866158dd7ea21d18)
 4. [유니캐스트, 멀티캐스트, 브로드캐스트, 애니캐스트](https://canary-capacity-362.notion.site/Unicast-Broadcast-Multicast-Anycast-c964a0e1b0274f6184b382a82db3c265)
-5. MAC 주소
-6. IP 주소
-7. LAN선 만들기
-8. 인캡슐레이션, 디캡슐레이션
+5. [MAC 주소]()
+6. [IP 주소]()
+7. [LAN선 만들기]()
+8. [인캡슐레이션, 디캡슐레이션]()
 
 ### 2주차
 
 1. [Socket 으로 바로 통신하는 것 대비 HTTP 는 비효율적인데도 왜 많은 앱들은 HTTP 를 쓰는 걸까요?](https://www.notion.so/2-1-31-http-1d0b3cc10abf4e9aac8aaa8ba1272eec)
-2. HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식
+2. [HTTP(s) 프로토콜에서 바이너리 데이터를 전송하는 방식]()
 3. [Socket 으로 웹 페이지를 크롤링하는 HTTP 클라이언트를 직접 구현하기](https://www.notion.so/2-1-31-http-1d0b3cc10abf4e9aac8aaa8ba1272eec)
-4. HTTP와 HTTPS의 차이점
-5. HTTPS와 SSL Handshake
+4. [HTTP와 HTTPS의 차이점]()
+5. [HTTPS와 SSL Handshake]()
 6. [HTTP 메서드와 그 역할](https://djunnni.github.io/docs/network/11)
 7. [GET과 POST의 차이점](https://canary-capacity-362.notion.site/GET-POST-f2e4995001a947b69f9e8d5508baac13)
 8. [웹 브라우저 동작 과정](https://canary-capacity-362.notion.site/7c359563949b428d8cb67b8c0e976c4d)
 
 ### 3주차
 
-1. RESTful
-2. CORS
+1. [RESTful]()
+2. [CORS]()
 3. [JWT](https://www.notion.so/3-jwt-4e4ed02243434fa5a066c46626b3e425?pvs=4)
 4. [OAuth](https://www.notion.so/3-OAuth-a4249244a7cc4fa787523dc68cda032a?pvs=4)
 5. [Session](https://canary-capacity-362.notion.site/Cookie-Session-66f7c27bc2004fd8a9910270e41f7c40)
@@ -70,8 +70,25 @@
 
 ### 4주차
 
-1. [웹 서버 소프트웨어(Apache, Nginx)와 이것의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지](https://www.notion.so/4-646d9094ad0642a49feebc42db2a97cd?pvs=4)
-2. XSS, CSRF
-3. 프록시 서버, 게이트 웨이
+1. [웹 서버 소프트웨어(Apache, Nginx)는 OSI 7계층 중 어디서 작동하는지](https://www.notion.so/4-646d9094ad0642a49feebc42db2a97cd?pvs=4)
+2. [웹 서버 소프트웨어(Apache, Nginx)의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지](https://www.notion.so/4-646d9094ad0642a49feebc42db2a97cd?pvs=4)
+3. [XSS]()
+4. [CSRF]()
+5. [프록시 서버]()
+6. [게이트 웨이]()
 4. [DDoS](https://canary-capacity-362.notion.site/DDoS-bdcdebd93c63438fa710d194dd18f8f3)
-5. 총정리
+
+### 5주차
+1. [네트워크 총정리](https://www.notion.so/310626519c124b4885022f76774edec4?pvs=4)
+
+<br>
+
+## 📌 OPERATING SYSTEM
+
+### 1주차
+
+### 2주차
+
+### 3주차
+
+### 4주차
