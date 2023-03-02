@@ -41,8 +41,8 @@
 4. [유니캐스트, 멀티캐스트, 브로드캐스트, 애니캐스트](https://canary-capacity-362.notion.site/Unicast-Broadcast-Multicast-Anycast-c964a0e1b0274f6184b382a82db3c265)
 5. [MAC 주소]()
 6. [IP 주소]()
-7. [LAN선 만들기]()
-8. [인캡슐레이션, 디캡슐레이션]()
+7. [LAN선 만들기](https://spotty-cycle-5fc.notion.site/LAN-5abecb7d5e314f65b3b7cb7dc9c2931d)
+8. [인캡슐레이션, 디캡슐레이션](https://spotty-cycle-5fc.notion.site/bab2fc6691404957ba8a4ec07293bfdb)
 
 ### 2주차
 
