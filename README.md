@@ -56,8 +56,8 @@
 
 ### 3주차
 
-1. [RESTful]()
-2. [CORS]()
+1. [RESTful](https://spotty-cycle-5fc.notion.site/RESTFUL-2ea8c0f79f264bd191fafd87291d2703)
+2. [CORS](https://spotty-cycle-5fc.notion.site/CORS-214245aeab1d4aa6a376df42a9e32b4a)
 3. [JWT](https://www.notion.so/3-jwt-4e4ed02243434fa5a066c46626b3e425?pvs=4)
 4. [OAuth](https://www.notion.so/3-OAuth-a4249244a7cc4fa787523dc68cda032a?pvs=4)
 5. [Session](https://canary-capacity-362.notion.site/Cookie-Session-66f7c27bc2004fd8a9910270e41f7c40)
@@ -73,8 +73,8 @@
 2. [웹 서버 소프트웨어(Apache, Nginx)의 서버 간 라우팅 기능은 OSI 7계층 중 어디서 작동하는지](https://www.notion.so/4-646d9094ad0642a49feebc42db2a97cd?pvs=4)
 3. [XSS]()
 4. [CSRF]()
-5. [프록시 서버]()
-6. [게이트 웨이]()
+5. [프록시 서버](https://spotty-cycle-5fc.notion.site/Proxy-Server-GateWay-1f4df92d9a5f49ef87c446bd528badd5)
+6. [게이트 웨이](https://spotty-cycle-5fc.notion.site/GateWay-565c3eb6b3e24800b46ca5ca7160ed12)
 4. [DDoS](https://canary-capacity-362.notion.site/DDoS-bdcdebd93c63438fa710d194dd18f8f3)
 
 ### 5주차
